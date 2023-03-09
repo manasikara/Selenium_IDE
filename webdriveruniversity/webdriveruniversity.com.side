@@ -1,0 +1,17 @@
+{
+  "id": "140e73b5-da47-4b91-81c9-03d16e7c8774",
+  "version": "2.0",
+  "name": "http://webdriveruniversity.com/index.html",
+  "url": "https://ultimateqa.com",
+  "tests": [],
+  "suites": [{
+    "id": "1ce54566-4334-442f-bfdb-e7c080c68145",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://ultimateqa.com/"],
+  "plugins": []
+}
