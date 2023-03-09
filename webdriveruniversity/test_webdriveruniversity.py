@@ -65,4 +65,5 @@ class TestUntitled():
     self.driver.find_element(By.ID, "zone2-entries").click()
     self.driver.find_element(By.ID, "zone3-entries").click()
     self.driver.find_element(By.ID, "zone4").click()
-  
+    
+    self.driver.close()
