@@ -1,5 +1,5 @@
 # Selenium_IDE
- Selenium IDE as the command learning source
+ Selenium IDE as a command learning source
  
  - webdriveruniversity 
  - 
